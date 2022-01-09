@@ -12,7 +12,7 @@ A website for search engine optimization.
 ## Website
 
 
-git@github.com:TravisL5/Horiseon1.git
+https://travisl5.github.io/Horiseon1/
 
 ## Contribution
 

@@ -19,3 +19,6 @@ https://travisl5.github.io/Horiseon1/
 Made by Travis Lansing
 
 ### Horiseon, Inc
+
+# Screenshot of live Horiseon webpage!
+![](assets/images/Screenshot.png)
